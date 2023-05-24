@@ -15,7 +15,7 @@ struct ContentView: View {
         VStack{
 
             HStack{
-                Text("HammadBOOOOOT")
+                Text("Chatbot")
                     .font(.system(size: 19))
                 Image(systemName: "bubble.left.fill")
                     .foregroundColor(.black)
