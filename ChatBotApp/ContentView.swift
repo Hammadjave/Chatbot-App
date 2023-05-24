@@ -9,12 +9,13 @@ import SwiftUI
 
 struct ContentView: View {
     @State var messageText = ""
+    
     @State var messsages = ["Welcome to chatBiot"]
     var body: some View {
         VStack{
 
             HStack{
-                Text("ChatBot")
+                Text("HammadBOOOOOT")
                     .font(.system(size: 19))
                 Image(systemName: "bubble.left.fill")
                     .foregroundColor(.black)
